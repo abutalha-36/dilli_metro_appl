@@ -11,6 +11,7 @@ Jawaharlal Nehru Stadium 12.0
 Jangpura 12.9
 Lajpat Nagar 14.4
 Moolchand 15.1
+
 Kailash Colony 16.4
 Nehru Place 17.4
 Kalkaji Mandir 18.2
